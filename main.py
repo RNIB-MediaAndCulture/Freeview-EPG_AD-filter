@@ -153,6 +153,7 @@ Make the channels and programmes into something readable by XMLTV
             icon_src.text = ''
 
     # TODO: stick an if in here so the programme is only added to the etree if description contains [AD] 
+    # if that works then consider it for [S] and [SL] 
     for pr in programmes:
         programme = etree.SubElement(data, 'programme')
         start_time = datetime.fromtimestamp(pr.get('start'), tz).strftime(dt_format)
