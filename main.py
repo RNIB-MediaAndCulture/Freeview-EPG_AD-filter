@@ -140,7 +140,7 @@ Make the channels and programmes into something readable by XMLTV
 
     data = etree.Element("tv")
     data.set("generator-info-name", "freeview-epg")
-    data.set("generator-info-url", "https://github.com/dp247/Freeview-EPG")
+    data.set("generator-info-url", "https://github.com/RNIB-MediaAndCulture/Freeview-EPG_AD-filter")
     for ch in channels:
         channel = etree.SubElement(data, "channel")
         channel.set("id", ch.get("xmltv_id"))
