@@ -22,7 +22,7 @@ Removes control characters, feature tags and empty characters from text
     text = remove_control_characters(text)
 
     # Removes feature tags such as [S], [S,SL], [AD] and [HD]
-    text = re.sub(r'\[[A-Z,]+\]', '', text)
+#    text = re.sub(r'\[[A-Z,]+\]', '', text)
 
     # Removes season/episode information
     text = re.sub(r'\(?[SE]?\d+\s?Ep\s?\d+[\d/]*\)?', '', text)
