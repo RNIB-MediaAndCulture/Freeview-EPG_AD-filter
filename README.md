@@ -25,7 +25,7 @@ For a list of included channels, please see the [channel list](https://github.co
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
 ```
-https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
+https://raw.githubusercontent.com/RNIB-MediaAndCulture/Freeview-EPG_AD-filter/master/epg.xml
 ```
 
 ## Contributing
