@@ -1,5 +1,9 @@
+The plan was to use this as a base for a project to create a list of UK broadcasts with AD. Unfortunately the stream it uses doesn't contain any programs with AD as it links through to BVOD services without AD on live content.
 
-![logo](https://user-images.githubusercontent.com/9065463/232618260-d9017259-1786-4d85-807f-63752143d403.png)
+We may need a physical TV-stick-in-a-box solution.
+
+
+
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/build_epg.yml?style=flat-square&label=EPG%20Generation)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/wiki.yml?style=flat-square&label=Channel%20List)
 ![GitHub issues](https://img.shields.io/github/issues-raw/dp247/Freeview-EPG?color=%232ca9bc&style=flat-square)
