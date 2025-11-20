@@ -1,6 +1,15 @@
+# Note
+
 The plan was to use this as a base for a project to create a list of UK broadcasts with AD. Unfortunately the stream it uses doesn't contain any programs with AD as it links through to BVOD services without AD on live content.
 
 We may need a physical TV-stick-in-a-box solution.
+
+
+
+
+
+
+
 
 
 
